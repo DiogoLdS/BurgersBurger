@@ -44,7 +44,7 @@ nav {
     background-color: #8A775B;
 }
 .meio {
-    background-image: url("trab2/css/img/fundo1.png");
+    background-image: url("img/fundo1.png");
     background-size: 100%;
     width: auto;
     height: 680px;
@@ -80,7 +80,7 @@ nav {
     grid-row: 3 / 5;
 }
 .final {
-    background-image: url("trab2/css/img/fundo1.png");
+    background-image: url("img/fundo1.png");
     background-size: 100%;
     width: auto;
     height: 680px;
