@@ -44,13 +44,13 @@ nav {
     background-color: #8A775B;
 }
 .meio {
-    background-image: url("./fundo1.png");
+    background-image: url("img/fundo1.png");
     background-size: 100%;
     width: auto;
     height: 680px;
 }
 .meio2 { 
-    background-image: url("./fundo1.png");
+    background-image: url("img/fundo1.png");
     background-size: 100%;
     width: auto;
     height: 480px;
