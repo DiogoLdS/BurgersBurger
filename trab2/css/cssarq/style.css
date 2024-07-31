@@ -44,7 +44,7 @@ nav {
     background-color: #8A775B;
 }
 .meio {
-    background-image: url("../img/fundo1.png");
+    background-image: url("./fundo1.png");
     background-size: 100%;
     width: auto;
     height: 680px;
@@ -80,7 +80,7 @@ nav {
     grid-row: 3 / 5;
 }
 .final {
-    background-image: url("../img/fundo1.png");
+    background-image: url("./fundo1.png");
     background-size: 100%;
     width: auto;
     height: 680px;
@@ -137,7 +137,7 @@ nav {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     place-items: center;
 }
-#quadmenu {
+#quadmenu1, #quadmenu2, #quadmenu3, #quadmenu4, #quadmenu5 {
     font-size: 30px;
     color: #F4E1C3;
 }
@@ -317,7 +317,7 @@ nav {
     grid-column: 1;
     grid-row: 3;
 }
-#retfootE1 {
+#retfootE11, #retfootE12 {
     place-self: center;
     color: #F4E1C3;
     font-size: 27px;
@@ -351,7 +351,7 @@ nav {
     display: grid;
     place-items: center;
 }
-#palavra {
+#palavra1, #palavra2, #palavra3, #palavra4 {
     color: #F4E1C3;
     font-size: 27px;
     font-style: normal;
